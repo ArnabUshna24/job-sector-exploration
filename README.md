@@ -6,7 +6,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 
 ## CV/Resume/Information Drop Status
 
-
+<p><strong>Table 1:</strong> Undergrad Phase (Apr 2019 - Jun 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="left"> SI No. </th>
