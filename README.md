@@ -92,7 +92,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Jun 2022 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 5 </td>
@@ -110,7 +110,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Aug 2022 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> Attended the interview, but not selected </td>
+    <td align="left"> I attended the interview, but was not selected. </td>
   </tr>
   <tr>
     <td align="center"> 7 </td>
@@ -119,7 +119,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> BUET Faculty (Civil) </td>
     <td align="center"> Oct 2022 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 8 </td>
@@ -128,7 +128,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> BUET Faculty (Civil) </td>
     <td align="center"> Nov 2022 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> NDA was signed; later opted out from the recruitment program due to personal reasons </td>
+    <td align="left"> NDA was signed to keep the company name undisclosed. I later opted out from the recruitment program due to personal reasons. </td>
   </tr>
   <tr>
     <td align="center"> 9 </td>
@@ -137,7 +137,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Job fair </td>
     <td align="center"> Feb 2023 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 10 </td>
@@ -146,7 +146,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Battle of Minds 2023 </td>
     <td align="center"> Jul 2023 </td>
     <td align="center"> - </td>
-    <td align="left"> Part of the competition submission </td>
+    <td align="left"> It was a part of the competition submission. </td>
   </tr>
   <tr>
     <td align="center"> 11 </td>
@@ -155,7 +155,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Aug 2023 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> Got an interview call, but declined </td>
+    <td align="left"> I received an interview call, but I declined considering that I would not be available due to being a running unergrad student. </td>
   </tr>
   <tr>
     <td align="center"> 12 </td>
@@ -164,7 +164,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Jan 2024 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> Passed the preliminary written test; attended the initial interview, but found out that I sat for the written test of 'Trainee Sales' position </td>
+    <td align="left"> I cleared the preliminary written test and attended the initial interview. But I found out in the interview board that I sat for the written test of 'Trainee Sales' position previously. So, end of the road for this part! </td>
   </tr>
   <tr>
     <td align="center"> 13 </td>
@@ -209,7 +209,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 18 </td>
@@ -218,7 +218,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 19 </td>
@@ -227,7 +227,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Feb 2024 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 20 </td>
@@ -236,7 +236,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Mar 2024 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> Attended the interview, but not selected </td>
+    <td align="left"> I attended the interview, but was not selected. </td>
   </tr>
   <tr>
     <td align="center"> 21 </td>
@@ -245,7 +245,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Mar 2024 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> Recruitment phase hit deadline without any prior notification </td>
+    <td align="left"> Recruitment phase hit deadline without any prior notification. </td>
   </tr>
   <tr>
     <td align="center"> 22 </td>
@@ -254,7 +254,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Jun 2024 </td>
     <td align="center"> - </td>
-    <td align="left"> The recruiter was unavailable </td>
+    <td align="left"> I could not submit the CV, as the recruiter was unavailable. </td>
   </tr>
 </table>
 
@@ -287,7 +287,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> MS Teams </td>
     <td align="center"> Jul 2024 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 3 </td>
@@ -296,7 +296,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Messenger </td>
     <td align="center"> Jul 2024 </td>
     <td align="center"> - </td>
-    <td align="left"> Recruitment did not take place </td>
+    <td align="left"> Recruitment did not take place. </td>
   </tr>
   <tr>
     <td align="center"> 4 </td>
