@@ -478,3 +478,531 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Rejected </td>
     <td align="left">  </td>
   </tr>
+</table>
+
+
+<p><strong>Table 3:</strong> Phase-3 (Nov 2024 - Mar 2026) </p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th align="left"> SI No. </th>
+    <th align="center"> Company/Institution </th>
+    <th align="center"> Position/Role </th>
+    <th align="center"> Circular Medium </th>
+    <th align="center"> Year </th>
+    <th align="center"> Status </th>
+    <th align="center"> Remarks </th>
+  </tr>
+  <tr>
+    <td align="center"> 1 </td>
+    <td align="left"> Bangladesh Rural Electrification Board (BREB) </td>
+    <td align="center"> Assistant GIS Specialist </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Nov 2024 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> This was the first govt. job application for me. I only applied to it as it was a skill-specific job. But I did not take any preparation to crack the job. Also, the vacancy for this position was only two (2). However, attending the written exam was fun, because I only studied for roughly one hour on the exam date with the help of ChatGPT. I even answered around 45-50 out of 60 marks, so I was satisfied with my performance considering the constraints around me. </td>
+  </tr>
+  <tr>
+    <td align="center"> 2 </td>
+    <td align="left"> Institute of Water Modelling (IWM) </td>
+    <td align="center"> GIS Analyst </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Nov 2024 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 3 </td>
+    <td align="left"> International Centre for Climate Change and Adaptation (ICCCAD) </td>
+    <td align="center"> Project Intern </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Nov 2024 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 4 </td>
+    <td align="left"> Bangladesh Standards and Testing Institute (BSTI) </td>
+    <td align="center"> Inspector (Metrology) - Metrology Wing </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Nov 2024 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> This was my first govt. job exam appearance. I bought a book for the written + MCQ exam, but I did not take significant amount of preparation for that. So, it was, kind of, expected to me that I would not get selected. </td>
+  </tr>
+  <tr>
+    <td align="center"> 5 </td>
+    <td align="left"> Sheltech Pvt. Ltd. </td>
+    <td align="center"> Data Analyst/Researcher (Research, Development & Compliance) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> Rejected </td>
+    <td align="left"> I did not hear from them actually. But after some month, when I was going through my CV folder, I looked at the specific CV that I submitted for this position. I realized that I had miscalculated the requirements and showcased the aspects of my profile that I was not supposed to show. </td>
+  </tr>
+  <tr>
+    <td align="center"> 6 </td>
+    <td align="left"> Code Nexa </td>
+    <td align="center"> Data Analyst </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 7 </td>
+    <td align="left"> SEBPO </td>
+    <td align="center"> Analyst – Data Solutions </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> Rejected </td>
+    <td align="left"> It was actually an interesting case. In the salary requirement option in LinkedIn job application, I asked for a industry-standard amount for roles like this. I did not hear from them. Later, after few months, I saw the same job advertisement for the same position. But they updated the job description part, where they 'indirectly' specified salary requirements stating that it is not a big industry-level position. So, this was the first time that I did not get selected for asking a specific salary range. </td>
+  </tr>
+  <tr>
+    <td align="center"> 8 </td>
+    <td align="left"> Technovative Solutions Ltd. </td>
+    <td align="center"> Assistant Engineer </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> The company name was not disclosed in the job circular. I correctly guessed the name by looking at the salary range and mail address. Also, later I got to know from one of my friends, who work in that company, that the recruitment probably did not take place. </td>
+  </tr>
+  <tr>
+    <td align="center"> 9 </td>
+    <td align="left"> United Nations Industrial Development Organization (UNIDO) </td>
+    <td align="center"> Intern (Decarbonization and Sustainable Energy Talent Pool) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 10 </td>
+    <td align="left"> Refonte Learning </td>
+    <td align="center"> Workshop Attendee </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 11 </td>
+    <td align="left"> Samuda Chemical Complex Ltd. (SCCL) </td>
+    <td align="center"> * Undisclosed * </td>
+    <td align="center"> Relative </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 12 </td>
+    <td align="left"> The World Bank </td>
+    <td align="center"> Team Assistant </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> Rejected </td>
+    <td align="left"> This was the first instance, where the recruiter actually cared to give a mail notifiying the rejection status. I always appreciate this type of behavior. </td>
+  </tr>
+  <tr>
+    <td align="center"> 13 </td>
+    <td align="left"> United Nations Development Programme (UNDP) </td>
+    <td align="center"> WASH Consultant </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 14 </td>
+    <td align="left"> Center for Research Innovation and Development (CRID) </td>
+    <td align="center"> Research Assistant (Intern) </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 15 </td>
+    <td align="left"> Cynical Ltd. </td>
+    <td align="center"> Intern (Bid Documents/Tender Preparation & Business Development) </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 16 </td>
+    <td align="left"> The Royal Scientific Publications </td>
+    <td align="center"> Writer & Editor </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 17 </td>
+    <td align="left"> Wishkite </td>
+    <td align="center"> Content Management Associate </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 18 </td>
+    <td align="left"> O&M Solutions Bangladesh Ltd. </td>
+    <td align="center"> Trainee Engineer (Civil) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 19 </td>
+    <td align="left"> Bangladeshi Student Research Initiative (BSRI) </td>
+    <td align="center"> Research Mentee </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center"> Accepted </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 20 </td>
+    <td align="left"> Samata Foundation </td>
+    <td align="center"> - </td>
+    <td align="center"> Father </td>
+    <td align="center"> Dec 2024 </td>
+    <td align="center">  </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 21 </td>
+    <td align="left"> Senior BUET Alumni </td>
+    <td align="center"> Research Assistant (Contractual) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> Mutual work commitment did not match after talking to her over phone. I referred her to one of my batchmates from WRE dept. </td>
+  </tr>
+  <tr>
+    <td align="center"> 22 </td>
+    <td align="left"> Presidency University </td>
+    <td align="center"> Adjunct Lecturer </td>
+    <td align="center"> Friend </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 23 </td>
+    <td align="left"> Abul Khair Group </td>
+    <td align="center"> Trainee Officer (Leaf Classification) </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 24 </td>
+    <td align="left"> Panjeree Publications Ltd. </td>
+    <td align="center"> Assistant Researcher – Math (English Version) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 25 </td>
+    <td align="left"> Local Government Engineering Department (LGED) </td>
+    <td align="center"> Assistant Engineer (Civil) </td>
+    <td align="center"> WhatsApp </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 26 </td>
+    <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 8 Banks </td>
+    <td align="center"> Officer (General) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 27 </td>
+    <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 11 Banks </td>
+    <td align="center"> Senior Officer (General) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 28 </td>
+    <td align="left"> Bangladesh Inland Water Transport Authority (BIWTA) </td>
+    <td align="center"> Assistant Engineer </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 29 </td>
+    <td align="left"> Bangladesh Inland Water Transport Authority (BIWTA) </td>
+    <td align="center"> Assistant Engineer </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 30 </td>
+    <td align="left"> Augmedix </td>
+    <td align="center"> Associate, Data Analyst (RCM) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I was actually selected for a different role, 'Quality Assurance Operator – RCM (Submission Integrity)', after they went going through my CV. They initially wanted to take a short online SQL assessment on a specific date, but I mailed them for rescheduling the date. They, kind of, ghosted me for months. Later in Oct 2025, they mailed me and gave me a project to complete, along with my video CV. I completed the task, but I did not hear from them. So, I guess, I was not selected. </td>
+  </tr>
+  <tr>
+    <td align="center"> 31 </td>
+    <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 6 Banks </td>
+    <td align="center"> Officer (Cash) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 32 </td>
+    <td align="left"> US-Bangla Airlines </td>
+    <td align="center"> Executive – Data Analyst </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 33 </td>
+    <td align="left"> IDLC Finance PLC </td>
+    <td align="center"> Data Scientist – SME Division </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 34 </td>
+    <td align="left"> Shikho </td>
+    <td align="center"> Learning Resource Assistant (LRA) – Drawing </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 35 </td>
+    <td align="left"> Shikho </td>
+    <td align="center"> Learning Resource Assistant (LRA) – Proofreading and Formatting </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 36 </td>
+    <td align="left"> Shikho </td>
+    <td align="center"> Learning Resource Assistant (LRA) – Typing </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Jan 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 37 </td>
+    <td align="left"> Conexess Group </td>
+    <td align="center"> Data/Business Intelligence Analyst </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Feb 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 38 </td>
+    <td align="left"> Dept. of Water Resources Engineering, BUET </td>
+    <td align="center"> Assistant Experimental Engineer </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Feb 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview (due to schedule clash with TOEFL mock test). </td>
+  </tr>
+  <tr>
+    <td align="center"> 39 </td>
+    <td align="left"> COAST Foundation </td>
+    <td align="center"> Environment & RECP Officer </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Feb 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 40 </td>
+    <td align="left"> Bangladesh Water Development Board (BWDB) </td>
+    <td align="center"> Assistant Engineer (Civil) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Feb 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 41 </td>
+    <td align="left"> * A remote job opportunity * </td>
+    <td align="center"> - </td>
+    <td align="center"> MasterCourse </td>
+    <td align="center"> Mar 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 42 </td>
+    <td align="left"> Pran-RFL Group </td>
+    <td align="center"> Trainee Engineer </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Mar 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 43 </td>
+    <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 2 Banks </td>
+    <td align="center"> Officer – Rural Credit (O-RC) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Mar 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 44 </td>
+    <td align="left"> * An International Company * </td>
+    <td align="center"> Data Entry Executive (Remote) </td>
+    <td align="center"> Bdjobs.com </td>
+    <td align="center"> Mar 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> I applied for this position considering the remote work opportunity and short-term money aspects. But no updates! </td>
+  </tr>
+  <tr>
+    <td align="center"> 45 </td>
+    <td align="left"> Institute of Water Modelling (IWM) </td>
+    <td align="center"> Junior Engineer </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Mar 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left"> I got rejected, because I was not able to update my CV in the company website due to server errors. </td>
+  </tr>
+  <tr>
+    <td align="center"> 46 </td>
+    <td align="left"> Hogarth </td>
+    <td align="center"> Data Analyst </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Mar 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 47 </td>
+    <td align="left"> Optimizely </td>
+    <td align="center"> Data Analyst </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Mar 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left"> This was the second time that the recruiters took the time to mail me regarding my rejection. Always a fan of this gesture! </td>
+  </tr>
+  <tr>
+    <td align="center"> 48 </td>
+    <td align="left"> River Research Institute (RRI) </td>
+    <td align="center"> Scientific Officer </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Apr 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written exam. </td>
+  </tr>
+  <tr>
+    <td align="center"> 49 </td>
+    <td align="left"> Artificizen </td>
+    <td align="center"> AI/ML Intern (Remote) </td>
+    <td align="center"> MasterCourse </td>
+    <td align="center"> May 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 50 </td>
+    <td align="left"> Dhaka North City Corporation (DNCC) </td>
+    <td align="center"> Assistant Engineer (Civil) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> May 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written exam. </td>
+  </tr>
+  <tr>
+    <td align="center"> 51 </td>
+    <td align="left"> INSEE Cement Bangladesh </td>
+    <td align="center"> Technical Support Intern </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> May 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the interview and I was not selected. This was the second interview that I attended in my life. </td>
+  </tr>
+  <tr>
+    <td align="center"> 52 </td>
+    <td align="left"> Mutual Trust Bank (MTB) PLC </td>
+    <td align="center"> Management Trainee (MT) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> May 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the online test on Bdjobs website, but got screwed up due to server issues. </td>
+  </tr>
+  <tr>
+    <td align="center"> 53 </td>
+    <td align="left"> The City Bank PLC </td>
+    <td align="center"> Trainee Assistant Manager </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> May 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left"> </td>
+  </tr>
+  <tr>
+    <td align="center"> 54 </td>
+    <td align="left"> Center for People & Environ (CPE) </td>
+    <td align="center"> Research Enumerator </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> May 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 55 </td>
+    <td align="left"> Quantanite </td>
+    <td align="center"> Associate – Operations </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Jun 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 56 </td>
+    <td align="left"> The City Bank PLC </td>
+    <td align="center"> Management Trainee (MT) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Jun 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the online test on Bdjobs website, but got screwed up due to server issues. </td>
+  </tr>
+  <tr>
+    <td align="center"> 57 </td>
+    <td align="left"> NCC Bank PLC </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Jun 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+</table>
