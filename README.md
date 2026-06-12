@@ -1368,7 +1368,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Apr 2026 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> I informed the contact person to withdraw my name from the interview list. </td>
+    <td align="left"> I informed the contact person on my current professional status and requested her to withdraw my name from the interview list. </td>
   </tr>
   <tr>
     <td align="center"> 8 </td>
