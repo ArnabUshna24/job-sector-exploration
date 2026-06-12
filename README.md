@@ -47,7 +47,7 @@ This is basically a summary of how I optimized my CV and tailored my information
   
 
 
-<p><strong>Table 1:</strong> Phase-1 (Apr 2019 - Jun 2024) </p>
+<p><strong>Table 2:</strong> Phase-1 (Apr 2019 - Jun 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -260,10 +260,10 @@ This is basically a summary of how I optimized my CV and tailored my information
 
 
 
-<p><strong>Table 2:</strong> Phase-2 (Jul 2024 - Nov 2024) </p>
+<p><strong>Table 3:</strong> Phase-2 (Jul 2024 - Nov 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th align="left"> SI No. </th>
+    <th align="center"> SI No. </th>
     <th align="center"> Company/Institution </th>
     <th align="center"> Position/Role </th>
     <th align="center"> Circular Medium </th>
@@ -481,10 +481,10 @@ This is basically a summary of how I optimized my CV and tailored my information
 </table>
 
 
-<p><strong>Table 3:</strong> Phase-3 (Nov 2024 - Mar 2026) </p>
+<p><strong>Table 4:</strong> Phase-3 (Nov 2024 - Mar 2026) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th align="left"> SI No. </th>
+    <th align="center"> SI No. </th>
     <th align="center"> Company/Institution </th>
     <th align="center"> Position/Role </th>
     <th align="center"> Circular Medium </th>
