@@ -1005,4 +1005,433 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Rejected </td>
     <td align="left">  </td>
   </tr>
+  <tr>
+    <td align="center"> 58 </td>
+    <td align="left"> Premier Bank PLC </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Jun 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 59 </td>
+    <td align="left"> Indetechs Software Ltd. </td>
+    <td align="center"> - </td>
+    <td align="center"> Friend </td>
+    <td align="center"> Jul 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 60 </td>
+    <td align="left"> NRBC Bank PLC </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Jul 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 61 </td>
+    <td align="left"> Infrastructure Development Company Limited (IDCOL) </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Jul 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the preliminary exam and got selected even without any preparation. Then, I attended the written exam, but I intentionally left some questions unanswered as I was not in mood after seeing the descriptive or generic questions. So, not getting selected for the next phase was expected. </td>
+  </tr>
+  <tr>
+    <td align="center"> 62 </td>
+    <td align="left"> IFIC Bank PLC </td>
+    <td align="center"> Transaction Service Officer (TSO) </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Jul 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the preliminary viva and was not selected. I heard from one of the friends, who work there, that the whole selection process is random. </td>
+  </tr>
+  <tr>
+    <td align="center"> 63 </td>
+    <td align="left"> Infrastructure Development Company Limited (IDCOL) </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Jul 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the preliminary exam and got selected even without any preparation. Then, I attended the written exam, but I intentionally left some questions unanswered as I was not in mood after seeing the descriptive or generic questions. So, not getting selected for the next phase was expected. </td>
+  </tr>
+  <tr>
+    <td align="center"> 64 </td>
+    <td align="left"> IPDC Finance PLC </td>
+    <td align="center"> Management Trainee </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Aug 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 65 </td>
+    <td align="left"> AKH Knitting & Dyeing Ltd. </td>
+    <td align="center"> Management Trainee Officer (MTO) – Civil Engineering </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Aug 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 66 </td>
+    <td align="left"> Research and Innovation Centre for Science and Engineering (RISE), BUET </td>
+    <td align="center"> Assistant Instrument Engineer </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Aug 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 67 </td>
+    <td align="left"> Ministry of Environment, Forestry and Climate Change </td>
+    <td align="center"> Intern </td>
+    <td align="center"> Bdjobs </td>
+    <td align="center"> Aug 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 68 </td>
+    <td align="left"> Local Government Engineering Department (LGED) </td>
+    <td align="center"> - </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Sep 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left"> It was, kind of, a freelance project work. </td>
+  </tr>
+  <tr>
+    <td align="center"> 69 </td>
+    <td align="left"> Institute of Water and Flood Management (IWFM), BUET </td>
+    <td align="center"> Office Manager </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Sep 2025 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 70 </td>
+    <td align="left"> Dept. of Nanomaterials and Ceramic Engineering (NCE), BUET </td>
+    <td align="center"> Office Manager </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 71 </td>
+    <td align="left"> Dept. of Computer Science and Engineering (CSE), BUET </td>
+    <td align="center"> Office Manager </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 72 </td>
+    <td align="left"> Dept. of Computer Science and Engineering (CSE), BUET </td>
+    <td align="center"> Office Manager </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 73 </td>
+    <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 11 Banks </td>
+    <td align="center"> Senior Officer (General) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 74 </td>
+    <td align="left"> Bank Asia PLC </td>
+    <td align="center"> Teller </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 75 </td>
+    <td align="left"> Local Government Division (LGD) – Zilla Parishad </td>
+    <td align="center"> Assistant Engineer </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the written test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 76 </td>
+    <td align="left"> Local Government Division (LGD) – Paurashava </td>
+    <td align="center"> Assistant Engineer (Civil) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 77 </td>
+    <td align="left"> HawarIT Ltd. </td>
+    <td align="center"> Geo-ICT Engineer </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> - </td>
+    <td align="left"> The recruitment did not take place. </td>
+  </tr>
+  <tr>
+    <td align="center"> 78 </td>
+    <td align="left"> Presidency University </td>
+    <td align="center"> Adjunct Lecturer </td>
+    <td align="center"> Messenger </td>
+    <td align="center"> Dec 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the interview and was not selected. </td>
+  </tr>
+  <tr>
+    <td align="center"> 79 </td>
+    <td align="left"> Centre for Environmental and Resource Management (CERM) </td>
+    <td align="center"> Research Officer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Jan 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 80 </td>
+    <td align="left"> AB Bank PLC </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Feb 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 81 </td>
+    <td align="left"> ZANALA Bangladesh Ltd. </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Feb 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 82 </td>
+    <td align="left"> Dept. of Civil Engineering, BUET </td>
+    <td align="center"> Site Engineer </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Feb 2026 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the interview and was not selected. </td>
+  </tr>
+  <tr>
+    <td align="center"> 83 </td>
+    <td align="left"> Prime Bank PLC </td>
+    <td align="center"> Management Trainee (MT) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> Mar 2026 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the online test. </td>
+  </tr>
+  <tr>
+    <td align="center"> 84 </td>
+    <td align="left"> Placon </td>
+    <td align="center"> Civil Engineer </td>
+    <td align="center"> Friend </td>
+    <td align="center"> Mar 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 85 </td>
+    <td align="left"> SQL Engineers </td>
+    <td align="center"> Assistant Engineer (Civil) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Mar 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 86 </td>
+    <td align="left"> PRAN-RFL Group </td>
+    <td align="center"> Trainee Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Mar 2026 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 87 </td>
+    <td align="left"> Edifice Consultancy Ltd. </td>
+    <td align="center"> Fresher Civil Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Mar 2026 </td>
+    <td align="center"> Rejected </td>
+    <td align="left">  </td>
+  </tr>
+  <tr>
+    <td align="center"> 88 </td>
+    <td align="left"> NRB Bank </td>
+    <td align="center"> Trainee Assistant Officer (TAO) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Mar 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 89 </td>
+    <td align="left"> Bank Asia PLC </td>
+    <td align="center"> Management Trainee (MT) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Mar 2026 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the online test, but no updates after that. </td>
+  </tr>
+</table>
+
+
+<p><strong>Table 5:</strong> Phase-4 (Apr 2026 - May 2026) </p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th align="center"> SI No. </th>
+    <th align="center"> Company/Institution </th>
+    <th align="center"> Position/Role </th>
+    <th align="center"> Circular Medium </th>
+    <th align="center"> Year </th>
+    <th align="center"> Status </th>
+    <th align="center"> Remarks </th>
+  </tr>
+  <tr>
+    <td align="center"> 1 </td>
+    <td align="left"> Bengal Group of Industries </td>
+    <td align="center"> CAD Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 2 </td>
+    <td align="left"> Bangladesh Bank </td>
+    <td align="center"> Assistant Director (AD) </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left"> </td>
+  </tr>
+  <tr>
+    <td align="center"> 3 </td>
+    <td align="left"> Adroit Environment Consultants Ltd. </td>
+    <td align="center"> Assistant Consultant </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left"> </td>
+  </tr>
+  <tr>
+    <td align="center"> 4 </td>
+    <td align="left"> Kingsley ESC </td>
+    <td align="center"> Environmental Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left"> </td>
+  </tr>
+  <tr>
+    <td align="center"> 5 </td>
+    <td align="left"> Tetra Private Ltd. </td>
+    <td align="center"> Water System Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left"> </td>
+  </tr>
+  <tr>
+    <td align="center"> 6 </td>
+    <td align="left"> National Green Environment </td>
+    <td align="center"> Junior Civil and Environmental Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left"> </td>
+  </tr>
+  <tr>
+    <td align="center"> 7 </td>
+    <td align="left"> DOHWA Engineering Company Ltd. </td>
+    <td align="center"> - </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I informed the contact person to withdraw my name from the interview list. </td>
+  </tr>
+  <tr>
+    <td align="center"> 8 </td>
+    <td align="left"> New Zealand Dairy Products (BD) Ltd. </td>
+    <td align="center"> Management Trainee Officer (MTO) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 9 </td>
+    <td align="left"> Prime Bank PLC </td>
+    <td align="center"> Trainee Officer </td>
+    <td align="center"> Bdrecruit </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> - </td>
+    <td align="left"> No updates </td>
+  </tr>
+  <tr>
+    <td align="center"> 10 </td>
+    <td align="left"> Commercial Bank of Ceylon Bangladesh </td>
+    <td align="center"> Management Trainee (MT) </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left"> </td>
+  </tr>
+  <tr>
+    <td align="center"> 11 </td>
+    <td align="left"> Greenfuture International </td>
+    <td align="center"> Civil and Environmental Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> Apr 2026 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I attended the interview and got a call from the recruiter the next day. It is the first job of my life. So, every moment of it feels special! </td>
+  </tr>
+  <tr>
+    <td align="center"> 12 </td>
+    <td align="left"> Akij Building Solutions </td>
+    <td align="center"> Quality Control (QC) Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> May 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left">  </td>
+  </tr>
+   <tr>
+    <td align="center"> 13 </td>
+    <td align="left"> Premier Cement Mills PLC </td>
+    <td align="center"> Civil Engineer </td>
+    <td align="center"> LinkedIn </td>
+    <td align="center"> May 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left">  </td>
+  </tr>
+  </tr>
+   <tr>
+    <td align="center"> 14 </td>
+    <td align="left"> Uttara Bank PLC </td>
+    <td align="center"> Assistant Officer (General) </td>
+    <td align="center"> Job Circular app </td>
+    <td align="center"> May 2026 </td>
+    <td align="center"> (Pending) </td>
+    <td align="left">  </td>
+  </tr>
 </table>
