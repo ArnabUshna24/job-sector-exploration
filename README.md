@@ -60,7 +60,7 @@ This is basically a summary of how I optimized my CV and tailored my information
   </tr>
   <tr>
     <td align="center"> 1 </td>
-    <td align="left"> Kathmundu Astronomy School (KAS) </td>
+    <td align="left"> Kathmandu Astronomy School (KAS) </td>
     <td align="center"> Workshop Attendee </td>
     <td align="center"> Facebook </td>
     <td align="center"> Sep 2020 </td>
