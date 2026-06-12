@@ -47,7 +47,7 @@ This is basically a summary of how I optimized my CV and tailored my information
   
 
 
-<p><strong>Table 1:</strong> Undergrad Phase (Apr 2019 - Jun 2024) </p>
+<p><strong>Table 1:</strong> Phase-1 (Apr 2019 - Jun 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="center"> SI No. </th>
@@ -260,7 +260,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 
 
 
-<p><strong>Table 2:</strong> Post-undergrad Phase-1 (Jul 2024 - Nov 2024) </p>
+<p><strong>Table 2:</strong> Phase-2 (Jul 2024 - Nov 2024) </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th align="left"> SI No. </th>
