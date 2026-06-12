@@ -24,23 +24,23 @@ This is basically a summary of how I optimized my CV and tailored my information
   </tr>
   <tr>
     <td align="center"> 2 </td>
-    <td align="left"> Post-undergrad Phase-1 </td>
+    <td align="left"> Warm-up Phase </td>
     <td align="center"> Jul 2024 </td>
     <td align="center"> Nov 2024 </td>
     <td align="left"> Right after my graduation, I came back to my home town, Netrkona and was shortly focusing on job applications. But I had no idea about the job market and how to showcase my profile in a manner that would attract the recruiters. This phase is basically a 'warm-up phase' for me, as I was starting to get idea on job market along this phase. I even shifted to Dhaka in Nov 2024, with an aim to securing a job. But I had to reconsider my plans considering the financial aspects. Hence, I stayed there for around 8-10 days and came back to Netrakona. </td>    
   </tr>
   <tr>
     <td align="center"> 3 </td>
-    <td align="left"> Post-undergrad Phase-2 </td>
+    <td align="left"> Tuition Phase </td>
     <td align="center"> Nov 2024 </td>
     <td align="center"> Mar 2026 </td>
     <td align="left"> In this phase, I stayed in Netrakona for around 1.5 years and managed my personal life with tuition money. This phase was centered around the aspects of financial solvency and standardized test preparations, in order to be fully prepared for higher study application later. As a reason, along with tuitions, I was also focusing on multiple things simultaneously, like job applications, research activities, standardized test preparations (GRE + TOEFL), and relevant voluntary works. Even if I landed a job, I would have declined the offer, considering that I had to stay in Netrakona for the fulfilment of my targets. And, I got the true essence of CV optimization for job applications in this phase. Once I completed all the 'phase milestones' around Dec 2025, I prepared to shift to Dhaka to actually 'secure a job'. </td>
   </tr>
   <tr>
     <td align="center"> 4 </td>
-    <td align="left"> Post-undergrad Phase-3 </td>
+    <td align="left"> Unemployment Phase </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> Present </td>
+    <td align="center"> May 2026 </td>
     <td align="left"> I shifted to Dhaka in Apr 2026 to focus solely on finding a job. A big thanks to the previous phase, for which I did not need to think about the job salary or other relevant aspects. As I familiarized myself with the main CV optimization thought-process earlier, I had to only fine-tune my CVs for maximum output. And, I eventually got my first job after one month, which was a pure satisfaction moment for me, considering the whole journey that I had to go through. </td>
   </tr>
 </table>
