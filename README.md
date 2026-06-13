@@ -1034,15 +1034,6 @@ This is basically a summary of how I optimized my CV and tailored my information
   </tr>
   <tr>
     <td align="center"> 61 </td>
-    <td align="left"> Infrastructure Development Company Limited (IDCOL) </td>
-    <td align="center"> Management Trainee Officer (MTO) </td>
-    <td align="center"> Bdjobs </td>
-    <td align="center"> Jul 2025 </td>
-    <td align="center"> Accepted </td>
-    <td align="left"> I attended the preliminary exam and got selected even without any preparation. Then, I attended the written exam, but I intentionally left some questions unanswered as I was not in mood after seeing the descriptive or generic questions. So, not getting selected for the next phase was expected. </td>
-  </tr>
-  <tr>
-    <td align="center"> 62 </td>
     <td align="left"> IFIC Bank PLC </td>
     <td align="center"> Transaction Service Officer (TSO) </td>
     <td align="center"> Bdjobs </td>
@@ -1051,7 +1042,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I attended the preliminary viva and was not selected. I heard from one of the friends, who work there, that the whole selection process is random. </td>
   </tr>
   <tr>
-    <td align="center"> 63 </td>
+    <td align="center"> 62 </td>
     <td align="left"> Infrastructure Development Company Limited (IDCOL) </td>
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> Bdjobs </td>
@@ -1060,7 +1051,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I attended the preliminary exam and got selected even without any preparation. Then, I attended the written exam, but I intentionally left some questions unanswered as I was not in mood after seeing the descriptive or generic questions. So, not getting selected for the next phase was expected. </td>
   </tr>
   <tr>
-    <td align="center"> 64 </td>
+    <td align="center"> 63 </td>
     <td align="left"> IPDC Finance PLC </td>
     <td align="center"> Management Trainee </td>
     <td align="center"> Bdjobs </td>
@@ -1069,7 +1060,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 65 </td>
+    <td align="center"> 64 </td>
     <td align="left"> AKH Knitting & Dyeing Ltd. </td>
     <td align="center"> Management Trainee Officer (MTO) – Civil Engineering </td>
     <td align="center"> Bdjobs </td>
@@ -1078,7 +1069,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 66 </td>
+    <td align="center"> 65 </td>
     <td align="left"> Research and Innovation Centre for Science and Engineering (RISE), BUET </td>
     <td align="center"> Assistant Instrument Engineer </td>
     <td align="center"> Bdjobs </td>
@@ -1087,7 +1078,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the written test. </td>
   </tr>
   <tr>
-    <td align="center"> 67 </td>
+    <td align="center"> 66 </td>
     <td align="left"> Ministry of Environment, Forestry and Climate Change </td>
     <td align="center"> Intern </td>
     <td align="center"> Bdjobs </td>
@@ -1096,7 +1087,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 68 </td>
+    <td align="center"> 67 </td>
     <td align="left"> Local Government Engineering Department (LGED) </td>
     <td align="center"> - </td>
     <td align="center"> Facebook </td>
@@ -1105,7 +1096,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> It was, kind of, a freelance project work. </td>
   </tr>
   <tr>
-    <td align="center"> 69 </td>
+    <td align="center"> 68 </td>
     <td align="left"> Institute of Water and Flood Management (IWFM), BUET </td>
     <td align="center"> Office Manager </td>
     <td align="center"> LinkedIn </td>
@@ -1114,8 +1105,17 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 70 </td>
+    <td align="center"> 69 </td>
     <td align="left"> Dept. of Nanomaterials and Ceramic Engineering (NCE), BUET </td>
+    <td align="center"> Office Manager </td>
+    <td align="center"> Facebook </td>
+    <td align="center"> Oct 2025 </td>
+    <td align="center"> Accepted </td>
+    <td align="left"> I did not attend the interview. </td>
+  </tr>
+  <tr>
+    <td align="center"> 70 </td>
+    <td align="left"> Dept. of Computer Science and Engineering (CSE), BUET </td>
     <td align="center"> Office Manager </td>
     <td align="center"> Facebook </td>
     <td align="center"> Oct 2025 </td>
@@ -1133,15 +1133,6 @@ This is basically a summary of how I optimized my CV and tailored my information
   </tr>
   <tr>
     <td align="center"> 72 </td>
-    <td align="left"> Dept. of Computer Science and Engineering (CSE), BUET </td>
-    <td align="center"> Office Manager </td>
-    <td align="center"> Facebook </td>
-    <td align="center"> Oct 2025 </td>
-    <td align="center"> Accepted </td>
-    <td align="left"> I did not attend the interview. </td>
-  </tr>
-  <tr>
-    <td align="center"> 73 </td>
     <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 11 Banks </td>
     <td align="center"> Senior Officer (General) </td>
     <td align="center"> Facebook </td>
@@ -1150,7 +1141,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the written test. </td>
   </tr>
   <tr>
-    <td align="center"> 74 </td>
+    <td align="center"> 73 </td>
     <td align="left"> Bank Asia PLC </td>
     <td align="center"> Teller </td>
     <td align="center"> Job Circular app </td>
@@ -1159,7 +1150,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 75 </td>
+    <td align="center"> 74 </td>
     <td align="left"> Local Government Division (LGD) – Zilla Parishad </td>
     <td align="center"> Assistant Engineer </td>
     <td align="center"> Job Circular app </td>
@@ -1168,7 +1159,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the written test. </td>
   </tr>
   <tr>
-    <td align="center"> 76 </td>
+    <td align="center"> 75 </td>
     <td align="left"> Local Government Division (LGD) – Paurashava </td>
     <td align="center"> Assistant Engineer (Civil) </td>
     <td align="center"> Job Circular app </td>
@@ -1177,7 +1168,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 77 </td>
+    <td align="center"> 76 </td>
     <td align="left"> HawarIT Ltd. </td>
     <td align="center"> Geo-ICT Engineer </td>
     <td align="center"> Facebook </td>
@@ -1186,7 +1177,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> The recruitment did not take place. </td>
   </tr>
   <tr>
-    <td align="center"> 78 </td>
+    <td align="center"> 77 </td>
     <td align="left"> Presidency University </td>
     <td align="center"> Adjunct Lecturer </td>
     <td align="center"> Messenger </td>
@@ -1195,7 +1186,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I attended the interview and was not selected. </td>
   </tr>
   <tr>
-    <td align="center"> 79 </td>
+    <td align="center"> 78 </td>
     <td align="left"> Centre for Environmental and Resource Management (CERM) </td>
     <td align="center"> Research Officer </td>
     <td align="center"> LinkedIn </td>
@@ -1204,7 +1195,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 80 </td>
+    <td align="center"> 79 </td>
     <td align="left"> AB Bank PLC </td>
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> Job Circular app </td>
@@ -1213,7 +1204,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 81 </td>
+    <td align="center"> 80 </td>
     <td align="left"> ZANALA Bangladesh Ltd. </td>
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> LinkedIn </td>
@@ -1222,7 +1213,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 82 </td>
+    <td align="center"> 81 </td>
     <td align="left"> Dept. of Civil Engineering, BUET </td>
     <td align="center"> Site Engineer </td>
     <td align="center"> Facebook </td>
@@ -1231,7 +1222,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I attended the interview and was not selected. </td>
   </tr>
   <tr>
-    <td align="center"> 83 </td>
+    <td align="center"> 82 </td>
     <td align="left"> Prime Bank PLC </td>
     <td align="center"> Management Trainee (MT) </td>
     <td align="center"> Job Circular app </td>
@@ -1240,7 +1231,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the online test. </td>
   </tr>
   <tr>
-    <td align="center"> 84 </td>
+    <td align="center"> 83 </td>
     <td align="left"> Placon </td>
     <td align="center"> Civil Engineer </td>
     <td align="center"> Friend </td>
@@ -1249,7 +1240,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 85 </td>
+    <td align="center"> 84 </td>
     <td align="left"> SQL Engineers </td>
     <td align="center"> Assistant Engineer (Civil) </td>
     <td align="center"> Facebook </td>
@@ -1258,7 +1249,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 86 </td>
+    <td align="center"> 85 </td>
     <td align="left"> PRAN-RFL Group </td>
     <td align="center"> Trainee Engineer </td>
     <td align="center"> LinkedIn </td>
@@ -1267,7 +1258,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 87 </td>
+    <td align="center"> 86 </td>
     <td align="left"> Edifice Consultancy Ltd. </td>
     <td align="center"> Fresher Civil Engineer </td>
     <td align="center"> LinkedIn </td>
@@ -1276,7 +1267,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 88 </td>
+    <td align="center"> 87 </td>
     <td align="left"> NRB Bank </td>
     <td align="center"> Trainee Assistant Officer (TAO) </td>
     <td align="center"> LinkedIn </td>
@@ -1285,7 +1276,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 89 </td>
+    <td align="center"> 88 </td>
     <td align="left"> Bank Asia PLC </td>
     <td align="center"> Management Trainee (MT) </td>
     <td align="center"> LinkedIn </td>
