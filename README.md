@@ -1419,7 +1419,7 @@ This is basically a summary of how I optimized my CV and tailored my information
 </table>
 
 
-## Personal Findings
+## Personal Analysis
 Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here is the detailed breakdown:
 
 <p><strong>Table 6:</strong> Company/Organization Categorization </p>
