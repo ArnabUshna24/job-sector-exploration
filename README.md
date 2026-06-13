@@ -746,15 +746,6 @@ This is basically a summary of how I optimized my CV and tailored my information
   </tr>
   <tr>
     <td align="center"> 29 </td>
-    <td align="left"> Bangladesh Inland Water Transport Authority (BIWTA) </td>
-    <td align="center"> Assistant Engineer </td>
-    <td align="center"> Job Circular app </td>
-    <td align="center"> Jan 2025 </td>
-    <td align="center"> Accepted </td>
-    <td align="left"> I did not attend the written test. </td>
-  </tr>
-  <tr>
-    <td align="center"> 30 </td>
     <td align="left"> Augmedix </td>
     <td align="center"> Associate, Data Analyst (RCM) </td>
     <td align="center"> LinkedIn </td>
@@ -763,7 +754,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I was actually selected for a different role, 'Quality Assurance Operator – RCM (Submission Integrity)', after they went going through my CV. They initially wanted to take a short online SQL assessment on a specific date, but I mailed them for rescheduling the date. They, kind of, ghosted me for months. Later in Oct 2025, they mailed me and gave me a project to complete, along with my video CV. I completed the task, but I did not hear from them. So, I guess, I was not selected. </td>
   </tr>
   <tr>
-    <td align="center"> 31 </td>
+    <td align="center"> 30 </td>
     <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 6 Banks </td>
     <td align="center"> Officer (Cash) </td>
     <td align="center"> Job Circular app </td>
@@ -772,7 +763,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the interview. </td>
   </tr>
   <tr>
-    <td align="center"> 32 </td>
+    <td align="center"> 31 </td>
     <td align="left"> US-Bangla Airlines </td>
     <td align="center"> Executive – Data Analyst </td>
     <td align="center"> Job Circular app </td>
@@ -781,7 +772,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the interview. </td>
   </tr>
   <tr>
-    <td align="center"> 33 </td>
+    <td align="center"> 32 </td>
     <td align="left"> IDLC Finance PLC </td>
     <td align="center"> Data Scientist – SME Division </td>
     <td align="center"> LinkedIn </td>
@@ -790,7 +781,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 34 </td>
+    <td align="center"> 33 </td>
     <td align="left"> Shikho </td>
     <td align="center"> Learning Resource Assistant (LRA) – Drawing </td>
     <td align="center"> LinkedIn </td>
@@ -799,7 +790,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 35 </td>
+    <td align="center"> 34 </td>
     <td align="left"> Shikho </td>
     <td align="center"> Learning Resource Assistant (LRA) – Proofreading and Formatting </td>
     <td align="center"> LinkedIn </td>
@@ -808,7 +799,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 36 </td>
+    <td align="center"> 35 </td>
     <td align="left"> Shikho </td>
     <td align="center"> Learning Resource Assistant (LRA) – Typing </td>
     <td align="center"> LinkedIn </td>
@@ -817,7 +808,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 37 </td>
+    <td align="center"> 36 </td>
     <td align="left"> Conexess Group </td>
     <td align="center"> Data/Business Intelligence Analyst </td>
     <td align="center"> LinkedIn </td>
@@ -826,7 +817,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 38 </td>
+    <td align="center"> 37 </td>
     <td align="left"> Dept. of Water Resources Engineering, BUET </td>
     <td align="center"> Assistant Experimental Engineer </td>
     <td align="center"> Facebook </td>
@@ -835,7 +826,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the interview (due to schedule clash with TOEFL mock test). </td>
   </tr>
   <tr>
-    <td align="center"> 39 </td>
+    <td align="center"> 38 </td>
     <td align="left"> COAST Foundation </td>
     <td align="center"> Environment & RECP Officer </td>
     <td align="center"> Job Circular app </td>
@@ -844,7 +835,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 40 </td>
+    <td align="center"> 39 </td>
     <td align="left"> Bangladesh Water Development Board (BWDB) </td>
     <td align="center"> Assistant Engineer (Civil) </td>
     <td align="center"> Job Circular app </td>
@@ -853,7 +844,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the interview. </td>
   </tr>
   <tr>
-    <td align="center"> 41 </td>
+    <td align="center"> 40 </td>
     <td align="left"> * A remote job opportunity * </td>
     <td align="center"> - </td>
     <td align="center"> MasterCourse </td>
@@ -862,7 +853,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 42 </td>
+    <td align="center"> 41 </td>
     <td align="left"> Pran-RFL Group </td>
     <td align="center"> Trainee Engineer </td>
     <td align="center"> Facebook </td>
@@ -871,7 +862,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 43 </td>
+    <td align="center"> 42 </td>
     <td align="left"> Bankers' Selection Committee Secretariat (BSCS) – Combined 2 Banks </td>
     <td align="center"> Officer – Rural Credit (O-RC) </td>
     <td align="center"> Job Circular app </td>
@@ -880,7 +871,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the interview. </td>
   </tr>
   <tr>
-    <td align="center"> 44 </td>
+    <td align="center"> 43 </td>
     <td align="left"> * An International Company * </td>
     <td align="center"> Data Entry Executive (Remote) </td>
     <td align="center"> Bdjobs.com </td>
@@ -889,7 +880,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I applied for this position considering the remote work opportunity and short-term money aspects. But no updates! </td>
   </tr>
   <tr>
-    <td align="center"> 45 </td>
+    <td align="center"> 44 </td>
     <td align="left"> Institute of Water Modelling (IWM) </td>
     <td align="center"> Junior Engineer </td>
     <td align="center"> Facebook </td>
@@ -898,7 +889,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I got rejected, because I was not able to update my CV in the company website due to server errors. </td>
   </tr>
   <tr>
-    <td align="center"> 46 </td>
+    <td align="center"> 45 </td>
     <td align="left"> Hogarth </td>
     <td align="center"> Data Analyst </td>
     <td align="center"> LinkedIn </td>
@@ -907,7 +898,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 47 </td>
+    <td align="center"> 46 </td>
     <td align="left"> Optimizely </td>
     <td align="center"> Data Analyst </td>
     <td align="center"> LinkedIn </td>
@@ -916,7 +907,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> This was the second time that the recruiters took the time to mail me regarding my rejection. Always a fan of this gesture! </td>
   </tr>
   <tr>
-    <td align="center"> 48 </td>
+    <td align="center"> 47 </td>
     <td align="left"> River Research Institute (RRI) </td>
     <td align="center"> Scientific Officer </td>
     <td align="center"> Job Circular app </td>
@@ -925,7 +916,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the written exam. </td>
   </tr>
   <tr>
-    <td align="center"> 49 </td>
+    <td align="center"> 48 </td>
     <td align="left"> Artificizen </td>
     <td align="center"> AI/ML Intern (Remote) </td>
     <td align="center"> MasterCourse </td>
@@ -934,7 +925,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 50 </td>
+    <td align="center"> 49 </td>
     <td align="left"> Dhaka North City Corporation (DNCC) </td>
     <td align="center"> Assistant Engineer (Civil) </td>
     <td align="center"> Job Circular app </td>
@@ -943,7 +934,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I did not attend the written exam. </td>
   </tr>
   <tr>
-    <td align="center"> 51 </td>
+    <td align="center"> 50 </td>
     <td align="left"> INSEE Cement Bangladesh </td>
     <td align="center"> Technical Support Intern </td>
     <td align="center"> Facebook </td>
@@ -952,7 +943,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I attended the interview and I was not selected. This was the second interview that I attended in my life. </td>
   </tr>
   <tr>
-    <td align="center"> 52 </td>
+    <td align="center"> 51 </td>
     <td align="left"> Mutual Trust Bank (MTB) PLC </td>
     <td align="center"> Management Trainee (MT) </td>
     <td align="center"> Job Circular app </td>
@@ -961,7 +952,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I attended the online test on Bdjobs website, but got screwed up due to server issues. </td>
   </tr>
   <tr>
-    <td align="center"> 53 </td>
+    <td align="center"> 52 </td>
     <td align="left"> The City Bank PLC </td>
     <td align="center"> Trainee Assistant Manager </td>
     <td align="center"> Job Circular app </td>
@@ -970,7 +961,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> </td>
   </tr>
   <tr>
-    <td align="center"> 54 </td>
+    <td align="center"> 53 </td>
     <td align="left"> Center for People & Environ (CPE) </td>
     <td align="center"> Research Enumerator </td>
     <td align="center"> LinkedIn </td>
@@ -979,7 +970,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 55 </td>
+    <td align="center"> 54 </td>
     <td align="left"> Quantanite </td>
     <td align="center"> Associate – Operations </td>
     <td align="center"> LinkedIn </td>
@@ -988,7 +979,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> No updates </td>
   </tr>
   <tr>
-    <td align="center"> 56 </td>
+    <td align="center"> 55 </td>
     <td align="left"> The City Bank PLC </td>
     <td align="center"> Management Trainee (MT) </td>
     <td align="center"> Facebook </td>
@@ -997,7 +988,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> I attended the online test on Bdjobs website, but got screwed up due to server issues. </td>
   </tr>
   <tr>
-    <td align="center"> 57 </td>
+    <td align="center"> 56 </td>
     <td align="left"> NCC Bank PLC </td>
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> Job Circular app </td>
@@ -1006,13 +997,22 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
   <tr>
-    <td align="center"> 58 </td>
+    <td align="center"> 57 </td>
     <td align="left"> Premier Bank PLC </td>
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> Job Circular app </td>
     <td align="center"> Jun 2025 </td>
     <td align="center"> Rejected </td>
     <td align="left">  </td>
+  </tr>
+    <tr>
+    <td align="center"> 58 </td>
+    <td align="left"> University of Information Technology and Sciences (UITS) </td>
+    <td align="center"> Adjunct Lecturer </td>
+    <td align="center"> University website </td>
+    <td align="center"> Jun 2025 </td>
+    <td align="center"> OK </td>
+    <td align="left"> I evaluated the CV by one of the faculties of this university. But it did not proceed further as there was no vacancy. </td>
   </tr>
   <tr>
     <td align="center"> 59 </td>
@@ -1435,3 +1435,6 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left">  </td>
   </tr>
 </table>
+
+
+## Personal Findings
