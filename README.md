@@ -155,7 +155,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Facebook </td>
     <td align="center"> Aug 2023 </td>
     <td align="center"> Accepted </td>
-    <td align="left"> I received an interview call, but I declined considering that I would not be available due to being a running unergrad student. </td>
+    <td align="left"> I received an interview call, but I declined considering that I would not be available due to being a running undergrad student. </td>
   </tr>
   <tr>
     <td align="center"> 12 </td>
