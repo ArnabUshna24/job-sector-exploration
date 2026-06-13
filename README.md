@@ -1420,3 +1420,38 @@ This is basically a summary of how I optimized my CV and tailored my information
 
 
 ## Personal Findings
+Over the course of more than 7 years, categorized into 4 phases, I dropped my information on 146 occasions. I further categorized the companies and positions on the basis of relevance and my profile. Here is the detailed breakdown:
+
+<p><strong>Table 6:</strong> Company/Organization Categorization </p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th align="center"> SI No. </th>
+    <th align="center"> Main Type </th>
+    <th align="center"> Sub-types </th>
+  </tr>
+  <tr>
+    <td align="center"> 1 </td>
+    <td align="left"> Academic </td>
+    <td align="left"> University, Institute </td>
+  </tr>
+  <tr>
+    <td align="center"> 2 </td>
+    <td align="left"> Research </td>
+    <td align="left"> University, Institute, Startup, Personal </td>
+  </tr>
+  <tr>
+    <td align="center"> 3 </td>
+    <td align="left"> Technical </td>
+    <td align="left"> Engineering Firm, Consultancy Firm, MNC (Civil), MNC (Tech) </td>
+  </tr>
+  <tr>
+    <td align="center"> 4 </td>
+    <td align="left"> Non-tech </td>
+    <td align="left"> MNC (Tech), MNC (Non-tech), Private Company, Bank, Institute (Finance) </td>
+  </tr>
+  <tr>
+    <td align="center"> 5 </td>
+    <td align="left"> Others </td>
+    <td align="left"> Govt. organization, Private Company </td>
+  </tr>
+</table>
