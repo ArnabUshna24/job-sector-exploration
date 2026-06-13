@@ -1452,7 +1452,7 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
   <tr>
     <td align="center"> 5 </td>
     <td align="center"> Others </td>
-    <td align="left"> Govt. Organization, Private Company </td>
+    <td align="left"> Govt. Organization, Private Company, NGO, IGO, INGO </td>
   </tr>
 </table>
 
