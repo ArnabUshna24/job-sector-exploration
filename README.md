@@ -971,7 +971,7 @@ This is basically a summary of how I optimized my CV and tailored my information
   </tr>
   <tr>
     <td align="center"> 54 </td>
-    <td align="left"> Quantanite </td>
+    <td align="left"> Quantanite Bangladesh Ltd. </td>
     <td align="center"> Associate – Operations </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Jun 2025 </td>
