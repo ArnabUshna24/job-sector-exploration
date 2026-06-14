@@ -1490,3 +1490,21 @@ Over the course of more than 7 years, categorized into 4 phases, I dropped my in
     <td align="left"> Govt. Employee, Extern </td>
   </tr>
 </table>
+
+
+## Visualization
+<div align="center">
+  <img src="https://github.com/ArnabUshna24/CV-optimization/blob/main/job_application_overview.jpg" alt="Job Application"/>
+  <p> <strong> Fig. 1: </strong> Overview of job applications over the phases. </p>
+</div>
+
+## Key Takeways
+* <strong> Phase-wise Performance: </strong> Phase 2 stands out as the lowest point with only a 4.3% shortlist rate across 23 applications. Phase 3 bounced back strongly to 38.4%, which reflects a shift in strategy, sector targeting, and CV refinement.
+  
+* <strong> Application Medium: </strong> The most counterintuitive finding is that LinkedIn, which is treated as the "professional" platform, had the lowest shortlist rate at just 9.4% despite being the second most used channel (39 applications). Job Circular app and Facebook both significantly outperformed it.
+
+* <strong> Company Type: </strong> Government organizations had an 81.2% shortlist rate, the highest by a wide margin. This is not surprising given that govt. exams are largely criteria-based rather than CV-impression-based. Private companies and MNC (Tech) firms were the hardest to crack at 10-12%.
+
+* <strong> Position Type: </strong> Government employee roles showed an 84.6% shortlist rate for the same reason. Research roles were surprisingly low at 7.7% despite the proper CV positioning, which is worth investigating.
+  
+* <strong> "No Response" Rate: </strong> More than a third of all applications (35.6%) resulted in silence, indicating a systemic issue in Bangladesh's job market.
