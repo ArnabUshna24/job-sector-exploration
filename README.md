@@ -669,7 +669,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> - </td>
     <td align="center"> Father </td>
     <td align="center"> Dec 2024 </td>
-    <td align="center">  </td>
+    <td align="center"> - </td>
     <td align="left"> No updates </td>
   </tr>
   <tr>
