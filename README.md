@@ -27,7 +27,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="left"> Warm-up Phase </td>
     <td align="center"> Jul 2024 </td>
     <td align="center"> Nov 2024 </td>
-    <td align="left"> Right after my graduation, I came back to my home town, Netrkona and was shortly focusing on job applications. But I had no idea about the job market and how to showcase my profile in a manner that would attract the recruiters. This phase is basically a 'warm-up phase' for me, as I was starting to get idea on job market along this phase. I even shifted to Dhaka in Nov 2024, with an aim to securing a job. But I had to reconsider my plans considering the financial aspects. Hence, I stayed there for around 8-10 days and came back to Netrakona. </td>    
+    <td align="left"> Right after my graduation, I came back to my home town, Netrakona and was shortly focusing on job applications. But I had no idea about the job market and how to showcase my profile in a manner that would attract the recruiters. This phase is basically a 'warm-up phase' for me, as I was starting to get idea on job market along this phase. I even shifted to Dhaka in Nov 2024, with an aim to securing a job. But I had to reconsider my plans considering the financial aspects. Hence, I stayed there for around 8-10 days and came back to Netrakona. </td>    
   </tr>
   <tr>
     <td align="center"> 3 </td>
