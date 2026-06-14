@@ -598,7 +598,7 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> LinkedIn </td>
     <td align="center"> Dec 2024 </td>
     <td align="center"> Rejected </td>
-    <td align="left"> This was the first instance, where the recruiter actually cared to give a mail notifiying the rejection status. I always appreciate this type of behavior. </td>
+    <td align="left"> This was the first instance, where the recruiter actually cared to give a mail notifying the rejection status. I always appreciate this type of behavior. </td>
   </tr>
   <tr>
     <td align="center"> 13 </td>
