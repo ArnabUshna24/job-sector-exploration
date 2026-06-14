@@ -1295,8 +1295,8 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> CAD Engineer </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> - </td>
-    <td align="left"> No updates </td>
+    <td align="center"> (Pending) </td>
+    <td align="left">  </td>
   </tr>
   <tr>
     <td align="center"> 2 </td>
@@ -1358,8 +1358,8 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Management Trainee Officer (MTO) </td>
     <td align="center"> LinkedIn </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> - </td>
-    <td align="left"> No updates </td>
+    <td align="center"> (Pending) </td>
+    <td align="left">  </td>
   </tr>
   <tr>
     <td align="center"> 9 </td>
@@ -1367,8 +1367,8 @@ This is basically a summary of how I optimized my CV and tailored my information
     <td align="center"> Trainee Officer </td>
     <td align="center"> Bdrecruit </td>
     <td align="center"> Apr 2026 </td>
-    <td align="center"> - </td>
-    <td align="left"> No updates </td>
+    <td align="center"> (Pending) </td>
+    <td align="left">  </td>
   </tr>
   <tr>
     <td align="center"> 10 </td>
